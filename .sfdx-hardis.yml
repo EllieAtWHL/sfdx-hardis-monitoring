@@ -6,3 +6,9 @@ notificationConfig:
   - key: ORG_LIMITS
     notifications:
       email: log
+monitoringCommands:
+  - key: ORG_LIMITS
+    frequency: daily
+
+  - key: ORG_LIMITS
+    frequency: daily
