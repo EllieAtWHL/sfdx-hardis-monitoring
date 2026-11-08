@@ -1,0 +1,8 @@
+instanceUrl: https://orgfarm-2f428de01a-dev-ed.develop.my.salesforce.com
+targetUsername: eleanormatthewman.535fe58249a7@agentforce.com
+msTeamsWebhookUrl: null
+deploymentRepository: https://github.com/EllieAtWHL/sfdx-hardis-training
+notificationConfig:
+  - key: ORG_LIMITS
+    notifications:
+      email: log

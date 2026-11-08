@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>eleanormatthewman@gmail.com</contactEmail>
+    <description>External Client App used by sfdx-hardis for org monitoring authentication. Documentation: https://sfdx-hardis.cloudity.com/salesforce-monitoring-config-home/</description>
+    <distributionState>Local</distributionState>
+    <isProtected>false</isProtected>
+    <label>sfdxhardismon_orgfarm_2f428de0</label>
+    <orgScopedExternalApp>00Dfj00000mSl1x:sfdxhardismon_orgfarm_2f428de0</orgScopedExternalApp>
+</ExternalClientApplication>
