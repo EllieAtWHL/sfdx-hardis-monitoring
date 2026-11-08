@@ -9,6 +9,3 @@ notificationConfig:
 monitoringCommands:
   - key: ORG_LIMITS
     frequency: daily
-
-  - key: ORG_LIMITS
-    frequency: daily
