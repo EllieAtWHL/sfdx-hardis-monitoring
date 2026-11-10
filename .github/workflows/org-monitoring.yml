@@ -26,7 +26,7 @@
 on:
   # Automatically run every day at midnight
   schedule:
-    - cron: "0 0 * * *" # Cron format -> https://crontab.cronhub.io/
+   # - cron: "0 0 * * *" # Cron format -> https://crontab.cronhub.io/
   workflow_dispatch:
 
 name: Org Monitoring sfdx-hardis
